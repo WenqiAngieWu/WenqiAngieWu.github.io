@@ -7,7 +7,7 @@
   			- Dufort-Frankel Method
   			- Crank-Nicholson Method
   			- Forward Time Centered Space Scheme
-          <a href="https://github.com/WenqiAngieWu/Numerical-Methods-in-PDE/blob/master/Diffusion%20Equation/Diffusion_Equation.pdf">[PDF]</a> <a href="https://github.com/WenqiAngieWu/Numerical-Methods-in-PDE/tree/master/Diffusion%20Equation">[CODE]</a> <br /> 
+          <a href="https://github.com/WenqiAngieWu/Numerical-Methods-in-PDE/blob/master/Diffusion%20Equation/Diffusion_Equation.pdf">[PDF]</a> <a href="https://github.com/WenqiAngieWu/Numerical-Methods-in-PDE/tree/master/Diffusion%20Equation/Codes">[CODE]</a> <br /> 
        </p>
     </div>
 </div>
