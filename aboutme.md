@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: "Life is a supermartingale"
 ---
-
+Shanghai born and Shanghai bred.
 
 
