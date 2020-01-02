@@ -10,7 +10,7 @@
   			<li>Forward Time Centered Space Scheme</li>
   			</p>
 		</ul>
-          <a href="https://github.com/WenqiAngieWu/Numerical-Methods-in-PDE/blob/master/Diffusion%20Equation/Diffusion_Equation.pdf">[PDF]</a> <a href="https://github.com/WenqiAngieWu/Numerical-Methods-in-PDE/tree/master/Diffusion%20Equation/Codes">[CODE]</a> <br /> 
+          <a href="pdf\Diffusion_Equation.pdf">[PDF]</a> <a href="https://github.com/WenqiAngieWu/Numerical-Methods-in-PDE/tree/master/Diffusion%20Equation/Codes">[CODE]</a> <br /> 
        </p>
     </div>
 </div>
