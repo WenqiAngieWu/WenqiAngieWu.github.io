@@ -9,7 +9,7 @@
   			<li>Crank-Nicholson Method</li>
   			<li>Forward Time Centered Space Scheme</li>
 		</ul>
-          <a href="pdf\Diffusion_Equation.pdf">[PDF]</a> <a href="https://github.com/WenqiAngieWu/Numerical-Methods-in-PDE/tree/master/Diffusion%20Equation/Codes">[CODE]</a> <br /> 
+          <a href="pdf/Diffusion_Equation.pdf">[PDF]</a> <a href="https://github.com/WenqiAngieWu/Numerical-Methods-in-PDE/tree/master/Diffusion%20Equation/Codes">[CODE]</a> <br /> 
        </p>
     </div>
 </div>
