@@ -1,10 +1,19 @@
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Unsupervised learning of object semantic parts from internal states of CNNs by population encoding</strong><br />
-          Jianyu Wang, Zhishuai Zhang, <b>Cihang Xie</b>, Vittal Premachandran, Alan Yuille<br />
-          Tech report, arXiv<br />
-          <a href="https://arxiv.org/pdf/1511.06855.pdf">[PDF]</a><br />
+          <strong>1. Numerical-Methods-in-PDE</strong><br />
+			Implemented different numerical methods for diffusion equations and compare the results of these methods
+			- Diffusion Equations
+  			- Dufort-Frankel Method
+  			- Crank-Nicholson Method
+  			- Forward Time Centered Space Scheme
+          <a href="https://github.com/WenqiAngieWu/Numerical-Methods-in-PDE/blob/master/Diffusion%20Equation/Diffusion_Equation.pdf">[PDF]</a> <a href="https://github.com/WenqiAngieWu/Numerical-Methods-in-PDE/tree/master/Diffusion%20Equation">[CODE]</a> <br /> 
        </p>
     </div>
 </div>
+
+
+# 
+
+
+
