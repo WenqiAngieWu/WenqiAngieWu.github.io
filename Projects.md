@@ -1,6 +1,3 @@
-<h3>
-    <a name='2016'></a> 2016
-</h3>
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
