@@ -3,7 +3,8 @@ layout: page
 title: About me
 subtitle: "Life is a supermartingale"
 ---
-Shanghai born and Shanghai bred.
+<h3> Why Canada</h3>
+Shanghai born and Shanghai bred
 
 
 <h3> A Serious Version - If I were you, I would skip this part :) </h3>
