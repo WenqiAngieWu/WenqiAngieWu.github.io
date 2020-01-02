@@ -1,8 +1,8 @@
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>1. Numerical-Methods-in-PDE</strong><br />
-          Implemented different numerical methods for diffusion equations and compare the results of these methods
+          <strong>1. Numerical Methods in PDE</strong><br />
+          <p>Implemented different numerical methods for diffusion equations and compare the results of these methods</p>
           <ul>
   			<li>Diffusion Equations</li>
   			<li>Dufort-Frankel Method</li>
