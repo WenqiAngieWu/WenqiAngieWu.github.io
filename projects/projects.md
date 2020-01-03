@@ -1,3 +1,7 @@
+---
+layout: page
+title: Projects
+---
 <!-- 3. Option-Pricing-in-the-Multi-Period-Binomial-Model -->
 <div class="media">
     <div class="media-body">
