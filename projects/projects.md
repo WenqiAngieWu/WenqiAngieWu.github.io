@@ -6,7 +6,7 @@ title: Projects
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <h3>Option Pricing in the Multi-Period Binomial Model</h3><br />
+          <h3>Option Pricing in the Multi-Period Binomial Model</h3>
           <p>Built a multi-period binomial model whose parameters are calibrated to a Black-Scholes geometric Brownian motion model</p>
           <ul>
         <li>European stock option pricing</li>
@@ -16,7 +16,7 @@ title: Projects
         <li>Forward Time Centered Space Scheme</li>
         <li>American single-stock futures option pricing & earliest time to exercise</li>
     </ul>
-     <a href="https://github.com/WenqiAngieWu/Option-Pricing-in-the-Multi-Period-Binomial-Model/blob/master/BinomialModel.py">[CODE]</a> <br /> 
+     <a href="https://github.com/WenqiAngieWu/Option-Pricing-in-the-Multi-Period-Binomial-Model/blob/master/BinomialModel.py">[CODE]</a> 
        </p>
     </div>
 </div>
