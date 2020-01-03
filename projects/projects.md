@@ -29,6 +29,7 @@ title: Projects
     <div class="media-body">
        <p class="media-heading">
           <h3>Term Structure Lattice Models</h3>
+          <p>
           <ul>
         <li>Binomial lattice model of the short-rate</li>
         <li>Fixed income derivative securities pricing: 
