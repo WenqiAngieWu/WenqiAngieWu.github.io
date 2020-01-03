@@ -6,7 +6,7 @@ title: Projects
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Option Pricing in the Multi-Period Binomial Model</strong><br />
+          <h3>Option Pricing in the Multi-Period Binomial Model</h3><br />
           <p>Built a multi-period binomial model whose parameters are calibrated to a Black-Scholes geometric Brownian motion model</p>
           <ul>
         <li>European stock option pricing</li>
