@@ -28,7 +28,7 @@ title: Projects
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Term Structure Lattice Models</strong><br />
+          <h3>Term Structure Lattice Models</h3>
           <ul>
         <li>Binomial lattice model of the short-rate</li>
         <li>Fixed income derivative securities pricing: 
@@ -42,7 +42,7 @@ title: Projects
           </ul></li>
         <li>The Forward Equation (elementary prices). Use this to price some fixed income derivative above</li>
       </ul>
-        <a href="https://github.com/WenqiAngieWu/Term-Structure-Lattice-Models/blob/master/TermStructure.py">[CODE]</a> <br /> 
+        <a href="https://github.com/WenqiAngieWu/Term-Structure-Lattice-Models/blob/master/TermStructure.py">[CODE]</a> 
        </p>
     </div>
 </div>
@@ -52,7 +52,7 @@ title: Projects
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Numerical Methods in PDE</strong><br />
+          <h3>Numerical Methods in PDE</h3>
           <p>Implemented different numerical methods for diffusion equations and compare the results of these methods</p>
           <ul>
   			<li>Diffusion Equations</li>
@@ -60,7 +60,7 @@ title: Projects
   			<li>Crank-Nicholson Method</li>
   			<li>Forward Time Centered Space Scheme</li>
 		</ul>
-          <a href="/pdf/Diffusion_Equation.pdf">[PDF]</a> <a href="https://github.com/WenqiAngieWu/Numerical-Methods-in-PDE/tree/master/Diffusion%20Equation/Codes">[CODE]</a> <br /> 
+          <a href="/pdf/Diffusion_Equation.pdf">[PDF]</a> <a href="https://github.com/WenqiAngieWu/Numerical-Methods-in-PDE/tree/master/Diffusion%20Equation/Codes">[CODE]</a> 
        </p>
     </div>
 </div>
