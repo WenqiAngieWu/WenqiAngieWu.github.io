@@ -43,8 +43,8 @@ title: Projects
           </ul></li>
         <li>The Forward Equation (elementary prices). Use this to price some fixed income derivative above</li>
       </ul>
+      </p>
         <a href="https://github.com/WenqiAngieWu/Term-Structure-Lattice-Models/blob/master/TermStructure.py">[CODE]</a> 
-       </p>
     </div>
 </div>
 
