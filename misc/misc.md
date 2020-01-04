@@ -14,6 +14,7 @@ title: Miscellaneous Templates
         </ul>
         <li>SDE</li>
         <ul>
+          <!-- mathjax -->
           <li>Solve <math>
   <mi>d</mi>
   <msub>
@@ -33,11 +34,7 @@ title: Miscellaneous Templates
   <mi>d</mi>
   <mi>t</mi>
   <mo>+</mo>
-  <mi>s</mi>
-  <mi>i</mi>
-  <mi>g</mi>
-  <mi>m</mi>
-  <mi>a</mi>
+  <mi>&#x3C3;</mi>
   <mo stretchy="false">(</mo>
   <mi>t</mi>
   <mo>,</mo>
