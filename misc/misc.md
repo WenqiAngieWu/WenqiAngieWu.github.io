@@ -3,7 +3,7 @@ layout: page
 title: Miscellaneous Templates
 ---
 
-<!-- <iframe src="http://127.0.0.1:7372", width="300", height="400", frameborder="1", name="Demo", scrolling="auto"></iframe> -->
+<!-- <a href="https://wenqiangiewu.shinyapps.io/histogram/">[DEMO]</a> -->
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
@@ -11,7 +11,10 @@ title: Miscellaneous Templates
           <ul>
         <li>Shiny Web App</li>
         <ul>
-          <li>Histogram: Side panel controls the number of 'bins' of a histogram <a href="https://github.com/WenqiAngieWu/Miscellaneous-Templates/tree/master/histogram">[CODE]</a><a href="https://wenqiangiewu.shinyapps.io/histogram/">[DEMO]</a> </li> 
+          <li>Histogram: Side panel controls the number of 'bins' of a histogram 
+            <iframe src="https://wenqiangiewu.shinyapps.io/histogram/", width="300", height="400", frameborder="1", name="Demo", scrolling="auto"></iframe>
+            <a href="https://github.com/WenqiAngieWu/Miscellaneous-Templates/tree/master/histogram">[CODE]</a> 
+          </li> 
           <li>Hover: Hover action shows the information of the dot on a 2D ggplot graph <a href="https://github.com/WenqiAngieWu/Miscellaneous-Templates/tree/master/hover">[CODE]</a><a href="https://wenqiangiewu.shinyapps.io/hover/">[DEMO]</a> </li>
         </ul>
         <li>SDE</li>
