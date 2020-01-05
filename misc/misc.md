@@ -10,10 +10,11 @@ title: Miscellaneous Templates
           <ul>
         <li>Shiny Web App</li>
         <ul>
-          <li>Histogram: Side panel controls the number of 'bins' of a histogram <a href="https://wenqiangiewu.shinyapps.io/histogram/">[DEMO]</a> <a href="https://github.com/WenqiAngieWu/Miscellaneous-Templates/tree/master/histogram">[CODE]</a>
-            <link rel="import" href="https://wenqiangiewu.shinyapps.io/histogram/">
+          <li>Histogram: Side panel controls the number of 'bins' of a histogram 
+            <a href="https://wenqiangiewu.shinyapps.io/histogram/">[DEMO]</a> <a href="https://github.com/WenqiAngieWu/Miscellaneous-Templates/tree/master/histogram">[CODE]</a>
           </li> 
-          <li>Hover: Hover action shows the information of the dot on a 2D ggplot graph <a href="https://wenqiangiewu.shinyapps.io/hover/">[DEMO]</a> <a href="https://github.com/WenqiAngieWu/Miscellaneous-Templates/tree/master/hover">[CODE]</a> </li>
+          <li>Hover: Hover action shows the information of the dot on a 2D ggplot graph 
+            <a href="https://wenqiangiewu.shinyapps.io/hover/">[DEMO]</a> <a href="https://github.com/WenqiAngieWu/Miscellaneous-Templates/tree/master/hover">[CODE]</a> </li>
         </ul>
         <li>SDE</li>
         <ul>
