@@ -4,7 +4,13 @@ title: About me
 subtitle: "Life is a supermartingale"
 ---
 <h3> Why Canada</h3>
-Shanghai born and Shanghai bred
+
+<p>Shanghai born and Shanghai bred, I am so used to living in the megacity that sometimes I wonder what it would be like to live in a place where there are not many people. However, when deciding which grad school offer to accept, I hesitated for a while since I was inspired by the welcome video of one particular program, which said, ’You’re in! In for the challenges. In for the possibilities.’ </p>
+
+<p> >‘In New York, concrete jungle where dreams are made of, there's nothin' you can't do,’ Jay-Z and Alicia Keys sings in the song ‘Empire State of Mind’.</p>
+
+<p>The song started to play in my head when I was watching this welcome video. But soon I realized that deep inside my heart, I have been seeking something else. All over NYC are dreams and sixpence, but some people look up at the moon, and here we are standing in the lunar light. </p>
+
 
 
 <h3> A Serious Version - If I were you, I would skip this part :) </h3>
