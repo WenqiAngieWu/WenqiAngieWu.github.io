@@ -62,13 +62,14 @@ title: Projects
   			<li>Crank-Nicholson Method</li>
   			<li>Forward Time Centered Space Scheme</li>
 		</ul>
-          <a href="/pdf/Diffusion_Equation.pdf">[PDF]</a> <a href="https://github.com/WenqiAngieWu/Numerical-Methods-in-PDE/tree/master/Diffusion%20Equation/Codes">[CODE]</a> 
+        <i class='far fa-file'></i>
+        <a class="main-nav-item" href="/pdf/Diffusion_Equation.pdf">Report</a> <a href="https://github.com/WenqiAngieWu/Numerical-Methods-in-PDE/tree/master/Diffusion%20Equation/Codes">[CODE]</a> 
        </p>
     </div>
 </div>
 
-
-
+<!-- <a href="/pdf/Diffusion_Equation.pdf">[PDF]</a> 
+ -->
 
 
 
