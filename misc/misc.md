@@ -3,7 +3,6 @@ layout: page
 title: Miscellaneous Templates
 ---
 
-<!-- <a href="https://wenqiangiewu.shinyapps.io/histogram/">[DEMO]</a> -->
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
@@ -11,11 +10,9 @@ title: Miscellaneous Templates
           <ul>
         <li>Shiny Web App</li>
         <ul>
-          <li>Histogram: Side panel controls the number of 'bins' of a histogram 
-            <iframe src="https://wenqiangiewu.shinyapps.io/histogram/", width="300", height="400", frameborder="1", name="Demo", scrolling="auto"></iframe>
-            <a href="https://github.com/WenqiAngieWu/Miscellaneous-Templates/tree/master/histogram">[CODE]</a> 
+          <li>Histogram: Side panel controls the number of 'bins' of a histogram <a href="https://wenqiangiewu.shinyapps.io/histogram/">[DEMO]</a> <a href="https://github.com/WenqiAngieWu/Miscellaneous-Templates/tree/master/histogram">[CODE]</a>
           </li> 
-          <li>Hover: Hover action shows the information of the dot on a 2D ggplot graph <a href="https://github.com/WenqiAngieWu/Miscellaneous-Templates/tree/master/hover">[CODE]</a><a href="https://wenqiangiewu.shinyapps.io/hover/">[DEMO]</a> </li>
+          <li>Hover: Hover action shows the information of the dot on a 2D ggplot graph <a href="https://wenqiangiewu.shinyapps.io/hover/">[DEMO]</a> <a href="https://github.com/WenqiAngieWu/Miscellaneous-Templates/tree/master/hover">[CODE]</a> </li>
         </ul>
         <li>SDE</li>
         <ul>
