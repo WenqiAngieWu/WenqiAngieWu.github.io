@@ -9,7 +9,10 @@ title: Miscellaneous Templates
           <ul>
         <li>Shiny Web App</li>
         <ul>
-          <li>Histogram: Side panel controls the number of 'bins' of a histogram <a href="https://github.com/WenqiAngieWu/Miscellaneous-Templates/tree/master/histogram">[CODE]</a> <a href="http://127.0.0.1:7372">[DEMO]</a></li> 
+          <li>Histogram: Side panel controls the number of 'bins' of a histogram <a href="https://github.com/WenqiAngieWu/Miscellaneous-Templates/tree/master/histogram">[CODE]</a>
+          <!-- <a href="http://127.0.0.1:7372">[DEMO]</a> -->
+          <iframe src="http://127.0.0.1:7372", width="300", height="400", frameborder="1", name="Demo", scrolling="auto"></iframe>
+        </li> 
           <li>Hover: Hover action shows the information of the dot on a 2D ggplot graph <a href="https://github.com/WenqiAngieWu/Miscellaneous-Templates/tree/master/hover">[CODE]</a> </li>
         </ul>
         <li>SDE</li>
