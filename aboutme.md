@@ -9,7 +9,7 @@ subtitle: "Life is a supermartingale"
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I am currently pursuing a Master's degree in Quantitative Finance from University of Waterloo(<a target="_blank" href="https://uwaterloo.ca/statistics-and-actuarial-science/programs/graduate-programs/master-quantitative-finance">MQF</a>).
+ I am currently pursuing a Master's degree in Quantitative Finance from University of Waterloo(<a target="_blank" href="https://uwaterloo.ca/statistics-and-actuarial-science/programs/graduate-programs/master-quantitative-finance">MQF</a>).
 </p>
 
 
@@ -17,7 +17,7 @@ I am currently pursuing a Master's degree in Quantitative Finance from Universit
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-I enjoy playing table tennis and I am also learning skiing and skating. Another part of me: Amateur Nitendo Switch player
+ I enjoy playing table tennis and I am also learning skiing and skating. Another part of me: Amateur Nitendo Switch player
 </p>
 
 
