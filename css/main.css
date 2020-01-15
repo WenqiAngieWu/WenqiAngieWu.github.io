@@ -789,7 +789,7 @@ pre {
 
 
 /* --- Custom: About me section --- */
-/*#aboutme-section {
+#aboutme-section {
   font-size: 19px;
 }
 
@@ -807,4 +807,4 @@ pre {
 
 #aboutme-section p:last-child {
   margin-bottom: 0;
-}*/
+}
