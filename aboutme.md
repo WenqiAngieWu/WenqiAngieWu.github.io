@@ -8,7 +8,7 @@ subtitle: "Life is a supermartingale"
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-Currently pursuing a Master's degree in Quantitative Finance at University of Waterloo (<a target="_blank" href="https://uwaterloo.ca/statistics-and-actuarial-science/programs/graduate-programs/master-quantitative-finance">MQF</a>).
+Currently pursuing a Master's degree in Quantitative Finance at University of Waterloo (<a target="_blank" href="https://uwaterloo.ca/statistics-and-actuarial-science/programs/graduate-programs/master-quantitative-finance">MQF</a>)
 </p>
 
 
