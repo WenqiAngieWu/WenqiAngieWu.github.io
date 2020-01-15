@@ -14,7 +14,7 @@ Currently pursuing a Master's degree in Quantitative Finance at University of Wa
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-Enjoy playing table tennis and biking; Learning skiing, skating, and cooking; Amateur Nitendo Switch player
+Enjoy playing table tennis and biking; Learning skiing, skating, and cooking; Amateur Nintendo Switch player
 </p>
 
 
