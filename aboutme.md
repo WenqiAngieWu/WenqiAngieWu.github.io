@@ -4,8 +4,7 @@ title: About me
 subtitle: "Life is a supermartingale"
 ---
 <!--  Temporary -->
-<div id="aboutme-section">
-
+<!-- <div id="aboutme-section">
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
@@ -13,12 +12,10 @@ subtitle: "Life is a supermartingale"
 </p>
 
 
-
-
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
  I enjoy playing table tennis and I am also learning skiing and skating. Another part of me: Amateur Nitendo Switch player
-</p>
+</p> -->
 
 
 
