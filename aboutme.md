@@ -15,10 +15,10 @@ I am currently pursuing a Master's degree in Quantitative Finance from Universit
 
 
 
-<!-- <p class="about-text">
+<p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-I am learning skiing and skating
-</p> -->
+I enjoy playing table tennis and I am also learning skiing and skating. Another part of me: Amateur Nitendo Switch player
+</p>
 
 
 
