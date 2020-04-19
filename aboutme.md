@@ -36,7 +36,7 @@ Enjoy playing table tennis and biking; Learning skiing, skating, and cooking; Am
 
 <p> I first joined a quantitative hedge fund where I researched multi-factor stock selection strategies. I also paid close attention to utilizing some numerical tricks, such as using non-linear functions to transform factors to reduce the correlation of return time series between my strategy’s and thousands of others’ in the fund's library. Besides, I once suggested assessing the performance of stock price forecast and re-estimating the cost of short selling. The fund manager highly valued my ideas and assigned a team to improve the back-testing framework.</p> 
 
-<p> Later, I was among the two students selected to work at the Sales and Trading Department at CICC, a top investment bank in China. I not only conducted quantitative work including automated data processing and modeling but also explained models in plain language to clients with little quantitative knowledge. From raw data to modeling to the presentation, I had the opportunity to develop a holistic view of the business. </p> 
+<p> Later, I was selected to work at the Sales and Trading Department at CICC, a leading investment bank in China. I not only conducted quantitative work including automated data processing and modeling but also explained models in plain language to team members. From raw data to modeling to the presentation, I had the opportunity to develop a holistic view of the business. </p> 
 
 <p> Afterward, I joined the Derivatives Department at Shanghai Futures Exchange, where I performed wrangling and visualization on real trading data of options, and forecast volatility and its distribution. Besides, I independently worked on the project of index design and implementation.</p> 
 
