@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: "Life is a supermartingale"
+subtitle: "Life is a Supermartingale"
 ---
 <!--  Temporary -->
 <div id="aboutme-section">
@@ -26,7 +26,7 @@ Enjoy playing table tennis and biking; Learning skiing, skating, and cooking; Am
 
 <p> <blockquote>'In New York, concrete jungle where dreams are made of, there's nothin' you can't do,’ Jay-Z and Alicia Keys sings in the song ‘Empire State of Mind’</blockquote></p>
 
-<p>The song started to play in my head when I was watching this welcome video. But soon I realized that deep inside my heart, I have been seeking something else. All over NYC are dreams and sixpence, but some people look up at the moon, and here we are standing in the lunar light... </p>
+<p>The song started to play in my head when I was watching this welcome video. But soon I realized that deep down in my heart, I have been seeking something else. All over NYC are dreams and sixpence, but some people look up at the moon, and here we are standing in the lunar light... </p>
 
 
 
