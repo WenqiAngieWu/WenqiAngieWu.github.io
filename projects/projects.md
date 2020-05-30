@@ -7,9 +7,11 @@ title: Projects
     <div class="media-body">
        <p class="media-heading">
           <h3>Betting Against Beta</h3>
-          <p>Studied Frazzini and Pedersen’s (2014) <i>Betting Against Beta</i>; Implemented this beta-arbitrage strateg, replicated the numerical results in the paper and tested it on the Canadian and US equity market data</p>
-          <p>Evaluated the strategy from three aspects: portfolio construction procedure, hedging methods, and trading cost; Proposed further
-development to improve it</p>
+          <ul>
+            <li>Studied Frazzini and Pedersen’s (2014) <i>Betting Against Beta</i>; Implemented this beta-arbitrage strategy, replicated the numerical results in the paper, and tested it on the Canadian and US equity market data</li>
+            <li>Evaluated the strategy from three aspects: portfolio construction procedure, hedging methods, and trading cost; Proposed further
+development to improve it</li>
+          </ul>
         <a href="https://github.com/WenqiAngieWu/Betting-Against-Beta">[CODE]</a> 
        </p>
     </div>
