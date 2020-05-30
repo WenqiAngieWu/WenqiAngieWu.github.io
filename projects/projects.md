@@ -2,7 +2,21 @@
 layout: page
 title: Projects
 ---
-<!-- 1. Numerical Methods in PDE -->
+<!-- Betting Against Beta -->
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <h3>Betting Against Beta</h3>
+          <p>Studied Frazzini and Pedersen’s (2014) <i>Betting Against Beta</i>; Implemented this beta-arbitrage strateg, replicated the numerical results in the paper and tested it on the Canadian and US equity market data</p>
+          <p>Evaluated the strategy from three aspects: portfolio construction procedure, hedging methods, and trading cost; Proposed further
+development to improve it</p>
+        <a href="https://github.com/WenqiAngieWu/Betting-Against-Beta">[CODE]</a> 
+       </p>
+    </div>
+</div>
+
+
+<!-- Numerical Methods in PDE -->
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
@@ -19,7 +33,7 @@ title: Projects
     </div>
 </div>
 
-<!-- 3. Option-Pricing-in-the-Multi-Period-Binomial-Model -->
+<!-- Option-Pricing-in-the-Multi-Period-Binomial-Model -->
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
@@ -40,7 +54,7 @@ title: Projects
 
 
 
-<!-- 2. Term-Structure-Lattice-Models -->
+<!-- Term-Structure-Lattice-Models -->
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
